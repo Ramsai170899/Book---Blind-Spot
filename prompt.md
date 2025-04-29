@@ -1,5 +1,3 @@
-## Generic Concept Elaboration Prompt
-
 Please create a comprehensive exploration of the concept "TITLE". This should be a thorough analysis that examines both theoretical foundations and practical applications.
 
 Structure your response to include:
@@ -61,7 +59,3 @@ Throughout the entire exploration, maintain a tone that is:
 - Personal without being self-help cliché
 
 The final product should feel like a conversation with a wise, experienced mentor who respects the reader's intelligence while not sugar-coating difficult truths.
-
----
-
-This template gives you a structured framework to thoroughly explore each concept from your list. Simply insert the specific concept title in the placeholder positions, and it will guide the creation of comprehensive content that covers all the aspects you mentioned: theoretical foundation, practical application, examples, analogies, cautionary tales, and solutions.
